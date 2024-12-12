@@ -1,0 +1,6 @@
+﻿  LinkedStack.cpp
+  main.cpp
+  SequentialStack.cpp
+D:\Visual_Studio_2022_code\Stack\Stack\SequentialStack.cpp(35,22): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  Stack.vcxproj -> D:\Visual_Studio_2022_code\Stack\x64\Debug\Stack.exe
